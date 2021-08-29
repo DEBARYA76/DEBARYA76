@@ -44,7 +44,7 @@ Hi, I'm DEBARYA 😉, 21 Years old Developer and programmer 👨🏻‍💻 from
   </P><br>
   
  
- 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DEBARYA76&" alt="DEBARYA76" /></p>
  
 ----------------
 
