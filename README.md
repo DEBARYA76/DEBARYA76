@@ -6,7 +6,7 @@
 >
 > -ARYA SPEAKS
 
-Hi, I'm DEBARYA 😉, 21 Years old Developer and programmer 👨🏻‍💻 from Kolkata,West  Bengal,India. I'm an open-source professional and always develop codes in various language. Currently, I'm working on Web Design & Development. Besides programming, I like cooking 🥗🥩🌮🍣 and reading story books 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm DEBARYA 😉, 21 Years old Developer and programmer 👨🏻‍💻 from Kolkata,West  Bengal,India. I'm an open-source professional and always develop codes in various language. Currently, I'm working on Web Design & Development. Besides programming, I like cooking 🥗🌮� and reading story books 🏃⛹️‍♂️🏋🏼‍♂️.
 </br>
 </br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
