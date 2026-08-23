@@ -219,25 +219,46 @@ Lakehouse Architecture             ███████████████
 
 ## 🔥 GitHub Contribution Streak
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=DEBARYA76&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Streak"
+  />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=DEBARYA76&theme=tokyonight&hide_border=true" />
+> If this card temporarily fails, it is generally an issue with the public stats service rather than your README.
 
-</div>
+---
 
-> GitHub statistics widgets depend on third-party services and can occasionally be unavailable. For a production-quality profile, generating static stats through GitHub Actions is more reliable than depending entirely on public endpoints.
+## 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DEBARYA76&theme=tokyonight"
+    alt="GitHub Profile Summary"
+  />
+</p>
 
 ---
 
 ## 🐍 Contribution Activity
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/DEBARYA76/DEBARYA76/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/DEBARYA76/DEBARYA76/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/DEBARYA76/DEBARYA76/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/DEBARYA76/DEBARYA76/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 
 ## 💡 Engineering Philosophy
 
